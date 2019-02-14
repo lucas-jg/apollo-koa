@@ -1,12 +1,13 @@
 {
-	"name": "apollo-server-koa",
+	"name": "apollo-koa",
 	"version": "1.0.0",
 	"main": "index.js",
-	"repository": "https://github.com/yunseul-light/apollo-server-koa.git",
+	"repository": "https://github.com/yunseul-light/apollo-koa.git",
 	"author": "Lucas <kjk727@me.com>",
 	"license": "MIT",
 	"dependencies": {
 		"apollo-server": "^2.4.0",
+		"apollo-server-koa": "^2.4.0",
 		"graphql": "^14.1.1"
 	},
 	"scripts": {
